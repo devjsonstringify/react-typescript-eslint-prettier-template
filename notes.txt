@@ -1,0 +1,6 @@
+
+
+HOW TO SETUP ESLINT AND PRETTIER FOR YOUR REACT APPS: https://thomaslombart.com/setup-eslint-prettier-react
+Setting ESLint on a React Typescript project (2021): https://andrebnassis.medium.com/setting-eslint-on-a-react-typescript-project-2021-1190a43ffba
+Setting up efficient workflows with ESLint, Prettier and TypeScript: https://indepth.dev/posts/1282/setting-up-efficient-workflows-with-eslint-prettier-and-typescript
+Using ESLint and Prettier in a TypeScript Project: https://robertcooper.me/post/using-eslint-and-prettier-in-a-typescript-project
